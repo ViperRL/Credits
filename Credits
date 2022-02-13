@@ -1,0 +1,11 @@
+game:GetService("StarterGui"):SetCore("SendNotification",{
+
+    Title = "Credits";
+
+    Text = "Made By Viper BG Subcribe To Him For More Scripts";
+
+    Duration = 15;
+
+})
+
+	endend)
